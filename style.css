@@ -1,0 +1,19 @@
+body {
+	background-image: url(https://katella.ai/wp-content/uploads/2017/10/landing-page-background.jpg);
+	background-size: cover;
+}
+
+.navbar {
+	opacity: 0.6;
+}
+
+.containerX {
+	display: flex;
+	justify-content: center;
+
+}
+
+.card {
+	background-color: rgba(52,58,64, 0.5);
+	color: #f2f2f2;
+}
